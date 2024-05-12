@@ -8,7 +8,7 @@ export default defineConfig({
 		port: 5000,
 		proxy: {
 			"/api": {
-				target: "https://chat-app-gott.onrender.com",
+				target: "https://chat-app-yn68.onrender.com",
 			},
 		},
 	},
